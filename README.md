@@ -38,7 +38,8 @@ flex-direction: row;
   <br />
 
  
-<img align="right" width="1200" src="https://github.com/user-attachments/assets/043b295e-2ae0-4bc9-8d14-a5df3ad5961b" alt="git">
+<hr style="border: none; border-top: 2px solid #4caf50; margin: 20px 0;" />
+
 <br />
 <br />
 <div style="text-align: left;">
