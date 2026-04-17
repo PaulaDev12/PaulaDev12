@@ -71,7 +71,7 @@ flex-direction: row;
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="NVM" src="https://img.shields.io/badge/-NVM-3E863D?style=flat-square&logo=nvm&logoColor=white" />
-<img alt="Django" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=django-css&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />/>
 
 
 </p>
