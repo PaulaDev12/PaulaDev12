@@ -95,26 +95,11 @@ flex-direction: row;
 </a>
 </td>
 
-<td align="center">
-<a href="https://github.com/PaulaDev12/Poet">
-<strong>🌙 Poet</strong>
-<br />
-<sub>Django · Bootstrap · Railway</sub>
-<br /><br />
-<img src="https://github.com/user-attachments/assets/22967ed2-80f9-45bd-936f-46dcba921f17" alt="Poet" />
-</a>
-</td>
 
   
 <td align="center">
 <a href="https://github.com/PaulaDev12/Poet">
-<strong>🌙 Poet</strong>
-<br />
-  <sub>Django · Bootstrap · Railway</sub>
-<br /><br />
-<img src="https://github.com/user-attachments/assets/22967ed2-80f9-45bd-936f-46dcba921f17" alt="Poet" />
-</a>
-</td>
+
 <strong>Visita uno de mis proyectos </strong>
  
 <br />
