@@ -85,15 +85,7 @@ flex-direction: row;
 <br />
 <table width="100%" align="center">
 <tr>
-<td align="center">
-<a href="https://github.com/PaulaDev12/PeliculasPlus">
-<strong>🎬 PeliculasPlus</strong>
-<br />
-<sub>React · Vercel</sub>
-<br /><br />
-<img src="https://github.com/user-attachments/assets/2426cb43-4f01-4950-875a-989ae9df7e74" alt="PeliculasPlus" />
-</a>
-</td>
+
 
 
   
