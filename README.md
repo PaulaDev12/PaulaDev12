@@ -87,8 +87,10 @@ flex-direction: row;
 <tr>
 <td align="center">
 <a href="https://github.com/PaulaDev12/PeliculasPlus.git">
-<strong>Visita uno de mis proyectos </strong>
+<a href="https://github.com/PaulaDev12/Poet.git">
   
+<strong>Visita uno de mis proyectos </strong>
+ 
 <br />
 
 <br />
