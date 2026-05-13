@@ -98,16 +98,12 @@ flex-direction: row;
 
   
 <td align="center">
-<a href="https://github.com/PaulaDev12/Poet">
-
-<strong>Visita uno de mis proyectos </strong>
- 
+<strong>Visita uno de mis proyectos</strong>
+<br /><br />
+<a href="https://github.com/PaulaDev12/PeliculasPlus">🎬 PeliculasPlus</a>
 <br />
-
-<br />
-
-<br />
-
+<a href="https://github.com/PaulaDev12/Poet">🌙 Poet</a>
+<br /><br />
 <p>
 
   <img src="https://github.com/user-attachments/assets/2426cb43-4f01-4950-875a-989ae9df7e74" alt="git" />
