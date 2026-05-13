@@ -86,31 +86,40 @@ flex-direction: row;
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://github.com/PaulaDev12/PeliculasPlus">
-<strong>🎬 PeliculasPlus</strong>
+<a href="https://github.com/PaulaDev12/PeliculasPlus.git">
+<a href="https://github.com/PaulaDev12/Poet.git">
+  
+<strong>Visita uno de mis proyectos </strong>
+ 
 <br />
-<sub>React · Vercel</sub>
-<br /><br />
-<img src="https://github.com/user-attachments/assets/2426cb43-4f01-4950-875a-989ae9df7e74" alt="PeliculasPlus" />
+
+<br />
+
+<br />
+
+<p>
+
+  <img src="https://github.com/user-attachments/assets/2426cb43-4f01-4950-875a-989ae9df7e74" alt="git" />
 </a>
+</p>
+
 </td>
 
-<td align="center">
-<a href="https://github.com/PaulaDev12/Poet">
-<strong>🌙 Poet</strong>
-<br />
-<sub>Django · Bootstrap · Railway</sub>
-<br /><br />
-<img src="https://github.com/user-attachments/assets/22967ed2-80f9-45bd-936f-46dcba921f17" alt="Poet" />
-</a>
-</td>
 
 <td align="center">
 <a href="https://youtu.be/4Ur-drrnluM?si=WZCie08gb3-jcnAG">
+
 <strong>Escucha una canción cool 😎</strong>
-<br /><br />
-<img src="https://github.com/user-attachments/assets/22967ed2-80f9-45bd-936f-46dcba921f17" alt="music" />
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
 </a>
+  <img src="https://github.com/user-attachments/assets/22967ed2-80f9-45bd-936f-46dcba921f17" alt="git" />
+</p>
+
 </td>
 </tr>
 </table>
@@ -123,4 +132,3 @@ flex-direction: row;
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
